@@ -25,6 +25,6 @@ The software was developed using the Java programming language. The primary tool
 
 - Enhance visual elements, such as better graphics for the character and obstacles
 - Implement levels with increasing difficulty
-- Increase the complexity and add variety to the obstacles 
+- Increase the complexity and variety of the obstacles 
 - Implement a high-score system and allow it to save to a file
 - Refactor code for better maintability and readability

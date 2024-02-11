@@ -5,7 +5,7 @@ The program, "Jump Master," is a basic jumping game where the character must nav
 The main components include a character (represented by a blue circle), obstacles (represented by black rectangles), and a scoring system. 
 The project aimed to reinforce knowledge of event handling, timers, graphical rendering, and basic collision detection in a gaming context.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/_Ang39JDYqU)
 
 # Development Environment
 
